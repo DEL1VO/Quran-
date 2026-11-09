@@ -1,0 +1,4 @@
+python-telegram-bot[job-queue]>=21.0
+fpdf2>=2.7.9
+uharfbuzz>=0.37.0
+tzdata
